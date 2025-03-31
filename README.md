@@ -1,2 +1,3 @@
 # Banco de imagens
-Arquivos de magem, GIFs e vídeos
+
+Imagens, GIFs e vídeos.
