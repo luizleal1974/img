@@ -3,5 +3,5 @@
 Imagens, GIFs e vídeos.
 
 <p align="center">
-<img src="Imagens_logo_repositorio.png" alt="Drawing" style="width:70px;"/>
+<img src="Imagens_logo_repositorio.png" alt="Drawing" style="width:3000px;"/>
 </p>
